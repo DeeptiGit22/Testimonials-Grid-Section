@@ -38,9 +38,11 @@ body {
 	margin-bottom: 1.5em;
 }
 
-.box1,
-.box2 {
+.box1 {
 	background: var(--clr-bg1);
+}
+.box2 {
+	background-color: var(--clr-bg2);
 }
 .box3,
 .box5 {
